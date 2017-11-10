@@ -30,4 +30,6 @@ const (
 	Exists       Operator = "exists"
 	GreaterThan  Operator = "gt"
 	LessThan     Operator = "lt"
+  Minimum      Operator = "min"
+  Maximum      Operator = "max"
 )
